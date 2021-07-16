@@ -1,10 +1,5 @@
----
-layout: page
-title: About
-permalink: /about/
-theme: jekyll-theme-cayman
----
+# About
 
-## About
 
-This is the about page
+### Mission
+Promoting communication between budding researchers and the public to increase understanding, interest, and participation of STEM.
