@@ -1,17 +1,17 @@
 # Members
 ## Sean Okawa
 
-###   Co-President
+### Co-President
 
 
 
 ## Rina Sakata
 
-###   Co-President
+### Co-President
 
 
 
 ## Yin Liu
 
-###   Content Manager
+### Content Manager
 
