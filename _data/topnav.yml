@@ -3,8 +3,8 @@
 
 navbar_singleitems:
 - items:
-  # - title: Some entry
-  #   url: http://example.com
+  - title: Some entry
+     href: /about/
   # - title: Contact
   #   url: contact.html
 
@@ -31,3 +31,16 @@ navbar_dropdowns:
           url: /jekyllhowto-content-and-formatting.html
         - title: Sidebar navigation
           url: /jekyllhowto-sidebar-navigation.html
+          
+  - title: "Home"
+  href: "/"
+
+- title: "News"
+  href: "/news/"
+
+- title: "Snippets"
+  subcategories:
+    - subtitle: "Example1"
+      subhref: "#"
+    - subtitle: "Example2"
+      subhref: "#"
