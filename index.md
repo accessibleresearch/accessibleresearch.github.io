@@ -3,11 +3,36 @@ layout: default
 title: {{ Accessible Research }}
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="about">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<!DOCTYPE html>
+  </script>
+    </head>
+    <div class="container">
+      <div class="navbar navbar-fixed-top">
+        <div class="navbar-inner">
+          <div class="container">
+            <a class="brand"></a>
+            <ul class="nav">
+              <li><a href="index">Home</a></li>
+              <li><a href="about">About</a></li>
+              <li><a href="members">Members</a></li>
+              <li><a href="events">Events</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="page-header">
+      </div>
+      <div class="row">
+        <div class="span12">
+          <ul class="unstyled">
+            <h3>Accessible Research</h3>
+          </ul>
+            <br>
+            <br>
+            <p>Copyright </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
