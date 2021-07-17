@@ -17,3 +17,7 @@
       <a href="#" class="about">About</a>
       <a href="#" class="members">Members</a>
     </section>
+    </section>
+
+  </body>
+</html>
