@@ -1,11 +1,12 @@
 - title: Home
-  url: /
+  link: /
   
 - title: About
-  url: /about
+  link: /about/
 
 - title: Group of Things
-  url: /group/
+  link: /about/
+  
   sublinks:
     - title: Sub-item 1
       url: /group/si1
@@ -13,3 +14,4 @@
       url: /group/si2
     - title: Sub-item 3
       url: /group/si3
+      
