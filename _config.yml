@@ -13,19 +13,10 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
   
-<html lang="en-us">
-  <head>
-  </head>
-  <body>
-   <section class="page-header">
-      <a href="https://accessibleresearch.github.io" class="btn">Home</a>
-      <a href="https://accessibleresearch.github.io/events" class="btn">Events</a>
-      <a href="https://accessibleresearch.github.io/members" class="btn">Members</a>
-   </section>
-    
-  </body>
-</html>
-
+header_pages:
+  - https://accessibleresearch.github.io/index.md
+  - /events
+  - /members
 
 logo: # filename of a logo image that has been placed into your images directory
 topnav: navigation
