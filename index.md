@@ -15,7 +15,7 @@
       <h2 class="project-tagline">A responsive theme for your project on GitHub Pages</h2>
       <a href="https://accessibleresearch.github.io" class="btn">Home</a>
       <a href="https://accessibleresearch.github.io/about" class="btn">About</a>
-      <a href="https://accessibleresearch.github.io/membeers" class="btn">Members</a>
+      <a href="https://accessibleresearch.github.io/members" class="btn">Members</a>
     </section>
     </section>
 
