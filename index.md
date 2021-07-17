@@ -12,7 +12,7 @@
   <body>
    <section class="page-header">
       <a href="https://accessibleresearch.github.io" class="btn">Home</a>
-      <a href="https://accessibleresearch.github.io/about" class="btn">About</a>
+      <a href="https://accessibleresearch.github.io/events" class="btn">Events</a>
       <a href="https://accessibleresearch.github.io/members" class="btn">Members</a>
    </section>
     
