@@ -9,7 +9,6 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/cayman.css">
   </head>
-  <body>
     <section class="page-header">
       <h1 class="project-name">Accessible Research</h1>
       <h2 class="project-tagline">A responsive theme for your project on GitHub Pages</h2>
