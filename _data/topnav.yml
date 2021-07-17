@@ -1,46 +1,15 @@
-## Topnav single links
- ## if you want to list an external url, use url instead of url. the theme will apply a different link base.
+- title: Home
+  url: /
+  
+- title: Home
+  url: /about
 
-navbar_singleitems:
-- items:
-  - title: Some entry
-     href: /about/
-  # - title: Contact
-  #   url: contact.html
-
-
-
-navbar_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: Sample Menu
-      folderitems:
-        - title: First item
-          url: https://talk.jekyllrb.com
-        - title: Second item
-          url: http://amazon.com
-        - title: Third item
-          url: http://nytimes.com
-        - title: Fourth item
-          url: http://google.com
-    - title: Another menu
-      folderitems:
-        - title: Getting Started
-          url: /index.html
-        - title: Content and Formatting
-          url: /jekyllhowto-content-and-formatting.html
-        - title: Sidebar navigation
-          url: /jekyllhowto-sidebar-navigation.html
-          
-  - title: "Home"
-  href: "/"
-
-- title: "News"
-  href: "/news/"
-
-- title: "Snippets"
-  subcategories:
-    - subtitle: "Example1"
-      subhref: "#"
-    - subtitle: "Example2"
-      subhref: "#"
+- title: Group of Things
+  url: /group/
+  sublinks:
+    - title: Sub-item 1
+      url: /group/si1
+    - title: Sub-item 2
+      url: /group/si2
+    - title: Sub-item 3
+      url: /group/si3
