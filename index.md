@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
@@ -8,7 +7,9 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/cayman.css">
+    
   </head>
+  <body>
     <section class="page-header">
       <h1 class="project-name">Accessible Research</h1>
       <h2 class="project-tagline">A responsive theme for your project on GitHub Pages</h2>
@@ -18,5 +19,13 @@
     </section>
     </section>
 
+    <section class="main-content">
+      <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>. <a href="https://github.com">Links</a> should be blue with no underlines (unless hovered over).</p>
+
+      <p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.</p>
+
+      <p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.</p>
+      
   </body>
 </html>
+
