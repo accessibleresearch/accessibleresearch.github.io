@@ -7,7 +7,7 @@ locale: en_US
 
 # --- List of links in the navigation bar --- #
 navbar-links:
-  About Me: "about"
+  Events: "https://accessibleresearch.github.io/events"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
