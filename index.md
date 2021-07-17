@@ -1,4 +1,4 @@
-
+ <script>
     </head>
     <div class="container">
       <div class="navbar navbar-fixed-top">
