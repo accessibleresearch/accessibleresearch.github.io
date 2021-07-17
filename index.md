@@ -11,8 +11,6 @@
   </head>
   <body>
    <section class="page-header">
-      <h1 class="project-name">Cayman</h1>
-      <h2 class="project-tagline">A responsive theme for your project on GitHub Pages</h2>
       <a href="https://accessibleresearch.github.io" class="btn">Home</a>
       <a href="https://accessibleresearch.github.io/about" class="btn">About</a>
       <a href="https://accessibleresearch.github.io/members" class="btn">Members</a>
