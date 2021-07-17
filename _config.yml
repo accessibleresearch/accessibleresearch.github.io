@@ -5,6 +5,6 @@ theme: jekyll-theme-cayman
 title: accessible research
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
-topnav: topnav
+topnav: example_menu
 menubar: example_menu
-fixed_navbar: top
+fixed_navbar: example_menu
