@@ -16,5 +16,7 @@ navbar-links:
   
 logo: # filename of a logo image that has been placed into your images directory
 topnav: navigation
-menubar: example_menu
+menubar: <a href="https://accessibleresearch.github.io" class="btn">Home</a>
+         <a href="https://accessibleresearch.github.io/events" class="btn">Events</a>
+         <a href="https://accessibleresearch.github.io/members" class="btn">Members</a>
 fixed_navbar: top
