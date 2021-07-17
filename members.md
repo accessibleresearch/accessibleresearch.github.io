@@ -1,5 +1,5 @@
 # Members
-## Sean Okawa ![Image](photos/Sean.jpg)
+## Sean Okawa ![Image](photos/Sean.jpg){:height="400px" width="400px"}
 
 ### Co-President
 
