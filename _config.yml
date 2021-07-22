@@ -1,26 +1,5 @@
-theme: jekyll-theme-cayman
-
-# Site wide configuration
-
 title: Accessible Research
-locale: en_US
-
-# --- List of links in the navigation bar --- #
-navbar-links:
-  Events: "https://accessibleresearch.github.io/events"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-  
-header_pages:
-  - https://accessibleresearch.github.io/index.md
-  - /events
-  - /members
-
-logo: # filename of a logo image that has been placed into your images directory
-topnav: navigation
-menubar: <a href="https://accessibleresearch.github.io" class="btn">Home</a>
-         <a href="https://accessibleresearch.github.io/events" class="btn">Events</a>
-         <a href="https://accessibleresearch.github.io/members" class="btn">Members</a>
-fixed_navbar: top
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
