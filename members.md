@@ -1,21 +1,12 @@
 # Members
-## Sean Okawa 
-<img style="float: left;" src="photos/Sean.jpg" width="150" height="150">
+## Co-President 
+<img align="top" style="float: left" src="photos/Sean.jpg" width="150" height="150"> <b> Sean Okawa</b>
 
 
-### Co-President
+## Co-President   
+<img align="top" style="float: left" src="photos/Rina.jpg" width="150" height="150"> <b> Rina Sakata </b>
 
 
-
-## Rina Sakata
-<img src="photos/Rina.jpg" width="150" height="150">
-
-### Co-President
-
-
-
-## Yin Liu
-<img src="photos/Yin.jpeg" width="150" height="150">
-
-### Content Manager
+## Content Manager
+<img align="top" style="float: left" src="photos/Yin.jpeg" width="150" height="150">  <b> Yin Liu</b>
 
