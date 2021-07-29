@@ -2,7 +2,6 @@
 ## Sean Okawa 
 <img style="float: left;" src="photos/Sean.jpg" width="150" height="150">
 
-### what do we do
 
 ### Co-President
 
