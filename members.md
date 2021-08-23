@@ -8,6 +8,8 @@
 <img align="top" style="float: left" src="photos/Rina.jpg" width="150" height="150"> <b> Rina Sakata </b>
 
 
+## IT director
+<b> Hitoshi Matsuo </b>
 
 ## Content Manager
 <img align="top" style="float: left" src="photos/Yin.jpeg" width="150" height="150">  <b> Yin Liu</b>
