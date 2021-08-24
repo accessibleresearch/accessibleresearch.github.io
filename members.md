@@ -12,8 +12,6 @@
                 <span style="color:#DF7401"><b>Co-President</b></span><br/>
             </td>
         </tr>
-    </tbody>
-    <tbody>
         <tr>
             <td style="width: 195px;">
                 <img class="alignleft wp-image-168" src="photos/Rina.jpg" alt="" width="150" height="150" />
@@ -23,8 +21,6 @@
                 <span style="color:#DF7401"><b>Co-President</b></span><br/>
             </td>
         </tr>
-    </tbody>
-    <tbody>
         <tr>
             <td style="width: 195px;">
                 <img class="alignleft wp-image-168" src="photos/Yin.jpeg" alt="" width="150" height="150" />
@@ -34,8 +30,6 @@
                 <span style="color:#DF7401"><b>Content Manager</b></span><br/>
             </td>
         </tr>
-    </tbody>
-    <tbody>
         <tr>
             <td style="width: 195px;">
                 <img class="alignleft wp-image-168" src="photos/hoge.jpg" alt="" width="150" height="150" />
