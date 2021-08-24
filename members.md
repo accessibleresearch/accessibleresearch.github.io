@@ -1,31 +1,14 @@
 # Members
 ## Co-President 
-<img align="top" style="float: left" src="photos/Sean.jpg" width="150" height="150"> <b> Sean Okawa</b>
-
-<b></b>
-<b></b>
-<b></b>
-<b></b>
+<p><img align="top" style="float: left" src="photos/Sean.jpg" width="150" height="150"> <b> Sean Okawa</b></p>
 
 ## Co-President   
-<img align="top" style="float: left" src="photos/Rina.jpg" width="150" height="150"> <b> Rina Sakata </b>
-
-<b></b>
-<b></b>
-<b></b>
-<b></b>
+<p><img align="top" style="float: left" src="photos/Rina.jpg" width="150" height="150"> <b> Rina Sakata </b></p>
 
 ## IT director
-<b> Hitoshi Matsuo </b>
-
-<b></b>
-<b></b>
-<b></b>
-<b></b>
-
-
+<p><b> Hitoshi Matsuo </b></p>
 
 
 ## Content Manager
-<img align="top" style="float: left" src="photos/Yin.jpeg" width="150" height="150">  <b> Yin Liu</b>
+<p><img align="top" style="float: left" src="photos/Yin.jpeg" width="150" height="150">  <b> Yin Liu</b></p>
 
